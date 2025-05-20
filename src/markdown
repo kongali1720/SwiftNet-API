@@ -1,0 +1,13 @@
+SwiftNet-API/
+├── src/
+│   ├── __init__.py
+│   ├── SNL_SERVER.py
+│   ├── server.py
+│   ├── client.py
+│   ├── crypto.py
+│   ├── logger.py
+│   ├── mt103.py
+│   └── client/   (jika ada folder client)
+│       ├── __init__.py
+│       └── ...
+└── README.md
